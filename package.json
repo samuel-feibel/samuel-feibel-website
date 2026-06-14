@@ -14,6 +14,8 @@
     "react-dom": "19.0.0"
   },
   "devDependencies": {
+    "@fontsource-variable/lora": "^5.2.8",
+    "@fontsource/lora": "^5.2.8",
     "@types/node": "^22",
     "@types/react": "^19",
     "@types/react-dom": "^19",

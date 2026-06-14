@@ -25,9 +25,7 @@ const dmSans = DM_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Sam — GNC Engineer",
-  description:
-    "GNC Engineer & Engineering Lead based in Los Angeles. Building the algorithms that guide spacecraft.",
+  title: "Samuel Feibel",
 };
 
 export default function RootLayout({

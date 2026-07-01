@@ -98,7 +98,7 @@ const PROJECTS: Project[] = [
       { type: "image", src: "/mae_6760.png" },
       { type: "text", text: "Final project for model estimation course titled \"Simultaneous State and Parameter Estimation of Aircraft Pitch Dynamics with Extended Kalman Filter and Kalman Smoothing\"." },
     ],
-    link: { href: "https://drive.google.com/file/d/1q4fOUA1D9KU7d8IsPb4EqMX5qzqTF7ZO/view?usp=sharing", label: "Full Report" },
+    link: { href: "/masters-project.pdf", label: "Full Report" },
   },
   {
     name: "Ball Balancer",
